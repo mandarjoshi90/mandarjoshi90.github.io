@@ -84,7 +84,6 @@ author:
   avatar           : "profile.png"
   bio              : "Research Scientist@Google Brain"
   location         : "Seattle"
-  employer         : "Google"
   googlescholar    : "https://scholar.google.com/citations?user=uCJk8mIAAAAJ&hl=en"
   github           : "mandarjoshi90"
   twitter          : "mandarjoshi_"
@@ -149,16 +148,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
