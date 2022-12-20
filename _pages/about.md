@@ -37,7 +37,7 @@ Publications
 
 * Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, <b>Mandar Joshi</b>, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov. <a href="https://arxiv.org/abs/1907.11692" target="_blank">RoBERTa: A Robustly Optimized BERT Pretraining Approach </a>. ArXiv:1907.11692, 2019.  [<a href="https://github.com/pytorch/fairseq/tree/master/examples/roberta" target="_blank"> code </a>]
 
-* <b>Mandar Joshi</b>*, Danqi Chen*, Yinhan Liu, Daniel S. Weld, Luke Zettlemoyer, Omer Levy. <a href="https://arxiv.org/abs/1907.10529" target="_blank"> SpanBERT: Improving Pre-training by Representing and Predicting Spans</a>. TACL, 2019.  Equal Contribution  [<a href="https://github.com/facebookresearch/SpanBERT" target="_blank"> code </a>]
+* <b>Mandar Joshi</b>\*, Danqi Chen\*, Yinhan Liu, Daniel S. Weld, Luke Zettlemoyer, Omer Levy. <a href="https://arxiv.org/abs/1907.10529" target="_blank"> SpanBERT: Improving Pre-training by Representing and Predicting Spans</a>. TACL, 2019.  Equal Contribution  [<a href="https://github.com/facebookresearch/SpanBERT" target="_blank"> code </a>]
 <br />
 \* equal contribution
 
