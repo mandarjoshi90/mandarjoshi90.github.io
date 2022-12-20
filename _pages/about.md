@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist at Google Brain in Seattle. My research interests are centered around self-supervised methods for natural language processing. 
+I'm a research scientist at [Google Brain](https://research.google/teams/brain/) in Seattle. My research interests are centered around self-supervised methods for natural language processing. 
 
-Before joining Google, I completed my PhD at the University of Washington where I was advised my Luke Zettlemoyer and Dan Weld. When I am not doing Computer Science-y stuff, I like to hike, travel, and read.
+Before joining Google, I completed my PhD at the [University of Washington](https://www.cs.washington.edu/) where I was advised my [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). When I am not doing Computer Science-y stuff, I like to hike, travel, and read.
 
 Publications
 ======
-Kenton Lee, <b>Mandar Joshi</b>, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova. <a href="https://arxiv.org/abs/2210.03347" target="_blank"> Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding</a>. ArXiv 2210.03347, 2022.
+Kenton Lee\*, <b>Mandar Joshi</b>\*, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova. <a href="https://arxiv.org/abs/2210.03347" target="_blank"> Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding</a>. ArXiv 2210.03347, 2022.<br />
+\* equal contribution
 
 <b>Mandar Joshi</b>, Terra Blevins, Mike Lewis, Daniel S. Weld, Luke Zettlemoyer. <a href="https://arxiv.org/abs/2205.04050" target="_blank"> Few-shot Mining of Naturally Occurring Inputs and Outputs </a>. ArXiv 2205.04050, 2022.
 
@@ -36,7 +37,9 @@ Bhargavi Paranjape, <b>Mandar Joshi</b>, John Thickstun, Hannaneh Hajishirzi, Lu
 
 Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, <b>Mandar Joshi</b>, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, Veselin Stoyanov. <a href="https://arxiv.org/abs/1907.11692" target="_blank">RoBERTa: A Robustly Optimized BERT Pretraining Approach </a>. ArXiv:1907.11692, 2019.  [<a href="https://github.com/pytorch/fairseq/tree/master/examples/roberta" target="_blank"> code </a>]
 
-<b>Mandar Joshi</b>*, Danqi Chen*, Yinhan Liu, Daniel S. Weld, Luke Zettlemoyer, Omer Levy. <a href="https://arxiv.org/abs/1907.10529" target="_blank"> SpanBERT: Improving Pre-training by Representing and Predicting Spans</a>. TACL, 2019.  * Equal Contribution  [<a href="https://github.com/facebookresearch/SpanBERT" target="_blank"> code </a>]
+<b>Mandar Joshi</b>*, Danqi Chen*, Yinhan Liu, Daniel S. Weld, Luke Zettlemoyer, Omer Levy. <a href="https://arxiv.org/abs/1907.10529" target="_blank"> SpanBERT: Improving Pre-training by Representing and Predicting Spans</a>. TACL, 2019.  Equal Contribution  [<a href="https://github.com/facebookresearch/SpanBERT" target="_blank"> code </a>]
+<br />
+\* equal contribution
 
 <b>Mandar Joshi</b>, Omer Levy, Daniel S. Weld, Luke Zettlemoyer. <a href="https://arxiv.org/abs/1908.09091" target="_blank">BERT for Coreference Resolution: Baselines and Analysis</a>. (Short) Proceedings of Emperical Methods in Natural Language Processing (EMNLP), 2019.  [<a href="https://github.com/mandarjoshi90/coref" target="_blank"> code </a>]
 
