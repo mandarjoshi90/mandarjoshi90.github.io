@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mandar Joshi \| मंदार जोशी "
+title: "Mandar Joshi &#124; मंदार जोशी "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
