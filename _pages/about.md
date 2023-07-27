@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist at [Google Brain](https://research.google/teams/brain/) in Seattle. My research interests are centered around self-supervised methods for natural language processing. 
+I'm a research scientist at [Google DeepMind](https://www.deepmind.com/) in Seattle. My research interests are centered around self-supervised methods for natural language processing. 
 
-Before joining Google, I completed my PhD at the [University of Washington](https://www.cs.washington.edu/) where I was advised my [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). When I am not doing Computer Science-y stuff, I like to hike, travel, and read.
+Before joining Google, I completed my PhD at the [University of Washington](https://www.cs.washington.edu/) where I was advised by [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). When I am not doing Computer Science-y stuff, I like to hike, travel, and read.
 
 Publications
 ======
