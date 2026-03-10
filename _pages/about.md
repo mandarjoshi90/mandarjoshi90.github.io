@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist at [Google DeepMind](https://www.deepmind.com/) in Seattle. My research interests are centered around agents, tool use, and self-supervised methods for natural language processing and multimodal learning. 
+I'm a research scientist at [Google DeepMind](https://www.deepmind.com/) in Seattle. My current interests are centered around agents, tool use, and multimodal learning. I often work on solutions involving self-supervised methods and reinforcement learning.
 
 Before joining Google, I completed my PhD at the [University of Washington](https://www.cs.washington.edu/) where I was advised by [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). When I am not doing Computer Science-y stuff, I like to hike, travel, and read.
 
