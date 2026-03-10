@@ -23,6 +23,8 @@ For the full list, please refer to my <a href="https://scholar.google.com/citati
 * Peter Shaw*, <b>Mandar Joshi</b>*, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova. <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf" target="_blank">From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces</a>. NeurIPS 2023.
 \* equal contribution
 
+* Google AI Team. <a href="https://arxiv.org/abs/2305.18565" target="_blank"> PaLI-X: On Scaling up a Multilingual Vision and Language Model</a>. ArXiv 2305.18565, 2023. 
+
 * Kenton Lee\*, <b>Mandar Joshi</b>\*, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova. <a href="https://arxiv.org/abs/2210.03347" target="_blank"> Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding</a>. ArXiv 2210.03347, 2022.<br />
 \* equal contribution
 
