@@ -12,8 +12,13 @@ I'm a research scientist at [Google DeepMind](https://www.deepmind.com/) in Seat
 
 Before joining Google, I completed my PhD at the [University of Washington](https://www.cs.washington.edu/) where I was advised by [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz) and [Dan Weld](https://www.cs.washington.edu/people/faculty/weld). When I am not doing Computer Science-y stuff, I like to hike, travel, and read.
 
-Publications
+Selected Publications
 ======
+For the full list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=uCJk8mIAAAAJ&hl=en) page.
+* Gemini Team, Google. [Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.](https://arxiv.org/abs/2507.06261) ArXiv 2507.06261, 2025.
+
+* Shikhar Murty, Christopher Manning, Peter Shaw, <b>Mandar Joshi</b>, Kenton Lee. [BAGEL: Bootstrapping Agents by Guiding Exploration with Language](https://arxiv.org/abs/2403.08140). ICML 2024
+* Peter Shaw, <b>Mandar Joshi</b>, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova. [From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces](https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf). NeurIPS 2023.
 * Kenton Lee\*, <b>Mandar Joshi</b>\*, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova. <a href="https://arxiv.org/abs/2210.03347" target="_blank"> Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding</a>. ArXiv 2210.03347, 2022.<br />
 \* equal contribution
 
