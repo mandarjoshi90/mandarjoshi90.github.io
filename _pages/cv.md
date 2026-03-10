@@ -21,13 +21,20 @@ Education
 
 Employment
 ======
-* Research Scientist, Google Brain (May 2022 - Present)
+* Research Scientist, Google DeepMind (May 2022 - Present)
 * Visiting Researcher, Meta AI Research (formerly FAIR) (April 2020 - March 2022})
 * Software Engineer, IBM Research (August 2014 - May 2015)
 * Internships: Google (Summer 2019), AI2 (Fall 2017)
   
 Representative Publications
 ======
+* Gemini Team, Google. <a href="https://arxiv.org/abs/2507.06261" target="_blank">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities.</a> ArXiv 2507.06261, 2025.
+
+* Peter Shaw*, <b>Mandar Joshi</b>*, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova. <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/6c52a8a4fadc9129c6e1d1745f2dfd0f-Paper-Conference.pdf" target="_blank">From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces</a>. NeurIPS 2023.
+\* equal contribution
+
+* Google AI Team. <a href="https://arxiv.org/abs/2305.18565" target="_blank"> PaLI-X: On Scaling up a Multilingual Vision and Language Model</a>. ArXiv 2305.18565, 2023. 
+
 * Kenton Lee\*, <b>Mandar Joshi</b>\*, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova. <a href="https://arxiv.org/abs/2210.03347" target="_blank"> Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding</a>. ArXiv 2210.03347, 2022.<br />
 \* equal contribution
 
